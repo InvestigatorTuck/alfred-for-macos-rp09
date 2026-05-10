@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with premium Alfred for macOS Workflow | quick search + OCR scanning, the #1 workflow. Includes quick search and OCR scanning for a smoother experience.
 
 
 
